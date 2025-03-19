@@ -42,7 +42,7 @@
 
 *🌸 Now get your inbox and copy sessino id*
 
-*🌸 If you past session id in (settings.js/SESSION_ID || "past_copy_text")*
+*🌸 If you past session id in (settings.js/SESSION_ID || "H3BUUSQT#aLAlvUGJbUnhwD8rkt_nW0MnZkUyD6gvl7tBKsNdVQc")*
 
 <h3>🌸 Supported Group link </h3>
 <a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Lara suported 👧</a>
