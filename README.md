@@ -1,6 +1,6 @@
 
 <div align="center">
-	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
+	<h3>👧🏻dollar WHATSAPP BOT👧🏻</h3>
 <img src="https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg" width="300" height="150">
 </div>
 <div align="center">
@@ -45,10 +45,10 @@
 *🌸 If you past session id in (settings.js/SESSION_ID || "H3BUUSQT#aLAlvUGJbUnhwD8rkt_nW0MnZkUyD6gvl7tBKsNdVQc")*
 
 <h3>🌸 Supported Group link </h3>
-<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Lara suported 👧</a>
+<a href="https://chat.whatsapp.com/C8Ov2h1aIIV0ndTanixQok">Join Lara suported 👧</a>
 <hr>
 <h3>🌸 Lara updates chanels </h3>
-<a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Lara updates chanel 👧</a>
+<a href="https://whatsapp.com/channel/0029VbAZuFFCBtxLljSGkS05">Join Lara updates chanel 👧</a>
 <hr>
 
 ***CLICK THE BUTTON BELOW TO DEPLOY🌸***
@@ -172,7 +172,7 @@ jobs:
 
 </div>
 
-<h5>Thank You For Using Lara-MD 💗</h5>
+<h5>Thank You For Using dollar-MD 💗</h5>
 
 <hr>
 
